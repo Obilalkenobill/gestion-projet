@@ -74,7 +74,7 @@ if (isset($_SESSION)):
             <button type="submit" class="btn btn-default" >Subscribe</button>
         </form> 
         <a class="btn btn-default" href="connexion.php" >Login</a>
-        <a class="btn btn-default" href="home.php" >Home</a>
+        <a class="btn btn-default" href="index.php" >Home</a>
     
 
     <script src="js/jquery-3.5.1.slim.min.js"></script>

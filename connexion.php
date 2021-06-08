@@ -94,7 +94,7 @@ if ($islog){
                             </div>
                             <br>
                             <div class="btnSubmit">
-                            <a class="btnSubmit" href="home.php" >Home</a>
+                            <a class="btnSubmit" href="index.php" >Home</a>
                             </div>
                             <br>
                              <div class="btnSubmit">
